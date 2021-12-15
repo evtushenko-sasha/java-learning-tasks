@@ -7,6 +7,7 @@
         <module>1-java-introduction</module>
         <module>2-java-introduction</module>
         <module>5-java-introduction-classes</module>
+        <module>6-java-introduction-abstract-class-interfaces</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

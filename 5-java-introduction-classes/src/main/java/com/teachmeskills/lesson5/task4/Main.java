@@ -10,7 +10,7 @@ public class Main {
 
         Home home = new Home(10, 3, new Flat[]{flat1, flat2}, "Minsk");
 
-        Flat flat3 = new Flat(3, 9, 23, 4, 10, 80.2, "Masha", ownerSex);
+        Flat flat3 = new Flat(3, 9, 23, 4, 10, 80.2, "Masha", Sex.F);
 
         home.addFlat(flat3);
 
