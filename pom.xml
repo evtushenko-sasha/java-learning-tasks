@@ -8,6 +8,7 @@
         <module>2-java-introduction</module>
         <module>5-java-introduction-classes</module>
         <module>6-java-introduction-abstract-class-interfaces</module>
+        <module>7-java-introduction-oop</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -37,14 +38,5 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
-        </plugins>
-    </build>
 
 </project>
